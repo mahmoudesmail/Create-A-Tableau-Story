@@ -1,10 +1,10 @@
 Project Overview
 Project 8 of udacity's data analyst nanodegree
 
-For this project, you will create a data visualization using Tableau that tells a story or highlights trends or patterns in a data set. Your work should be a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
+For this project, I created a data visualization using Tableau that tells a story or highlights trends or patterns in a data set. the work is a reflection of the theory and practice of data visualization, such as visual encodings, design principles, and effective communication.
 
 What do I need to install?
-Before working on the project, you will need to have either Tableau Public or Tableau Desktop installed. You will need a software license to use Tableau Desktop. If you don't have one, you can download Tableau Public HERE.
+Before working on the project, I had Tableau Desktop installed. You will need a software license to use Tableau Desktop.
 
 
 This project will touch on the overarching attitudes and beliefs important to effective data visualization, such as:
@@ -12,7 +12,7 @@ This project will touch on the overarching attitudes and beliefs important to ef
 visualization is a dialog
 showcasing and sharing visualizations with others
 visualization is a fluid process that typically requires multiple iterations of improvements
-You will have an opportunity to experience the end-to-end process of creating effective data visualizations and highlighting important information from data that may otherwise be hidden or hard to uncover.
+experiencing the end-to-end process of creating effective data visualizations and highlighting important information from data that may otherwise be hidden or hard to uncover.
 
 
 After completing the project, you will be able to:
